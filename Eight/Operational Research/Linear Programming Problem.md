@@ -158,3 +158,23 @@ Different methods are used to solve LPP. However, we are going to discuss only t
 - Graphical method
 - Simplex method
 
+
+#### 1. Graphical Method
+
+Video to watch
+https://www.youtube.com/watch?v=2EvC1v1FI2k
+
+**Terminologies to remember**
+
+**Feasible Region**: The common region which satisfies all the constraints is called feasible region.
+
+**Feasible Solution**: Every point inside the feasible region is called feasible solution.
+
+**Optimal Solution**: The best solution obtained in LPP.
+
+< and > makes huge difference. Normally < means towards the origin and > means away from the origin.
+
+***Unbounded solution*** -> If there exists a lot of feasible solutions for maximum then it is called unbounded solution
+
+If you have two lines, the intersection point is simply the point that satisfies both equations at the same time.
+
