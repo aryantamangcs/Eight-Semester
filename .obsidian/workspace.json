@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eight/DAV/Visual Representation of Data.md",
+                "file": "Eight/Operational Research/Queuing Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visual Representation of Data"
+              "title": "Queuing Theory"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eight/DAV/Visual Representation of Data.md",
+                "file": "Eight/Operational Research/Queuing Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Visual Representation of Data"
+              "title": "Backlinks for Queuing Theory"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eight/DAV/Visual Representation of Data.md",
+                "file": "Eight/Operational Research/Queuing Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Visual Representation of Data"
+              "title": "Outgoing links from Queuing Theory"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eight/DAV/Visual Representation of Data.md",
+                "file": "Eight/Operational Research/Queuing Theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Visual Representation of Data"
+              "title": "Outline of Queuing Theory"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "948665333e5a70c4",
   "lastOpenFiles": [
-    "Eight/DAV/Visual Representation of Data.md"
+    "Eight/DAV/Visual Representation of Data.md",
+    "Eight/Operational Research/Queuing Theory.md"
   ]
 }
