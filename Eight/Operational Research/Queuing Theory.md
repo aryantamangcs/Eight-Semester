@@ -128,7 +128,7 @@ This is the simplest and widely used queuing model.
 
 The average number of customers waiting in line for getting service in the service center is called **queue length**.
 
-Lq=λμ(λμ−λ)L_q=\frac{\lambda}{\mu}\left(\frac{\lambda}{\mu-\lambda}\right)Lq​=μλ​(μ−λλ​)
+Lq = λ/μ (λ/ (μ - λ))
 
 ---
 
@@ -136,7 +136,7 @@ Lq=λμ(λμ−λ)L_q=\frac{\lambda}{\mu}\left(\frac{\lambda}{\mu-\lambda}\right
 
 The average number of customers in the queue plus customers getting served is called **system length**.
 
-Ls=λμ−λL_s=\frac{\lambda}{\mu-\lambda}Ls​=μ−λλ​
+Ls=(λ/ (μ - λ))
 
 ---
 
@@ -147,8 +147,8 @@ The average time spent by a customer waiting in line before getting service is c
 Denoted by **Wq**.
 
 Formula:
+Tq = λ/μ (1/ (μ - λ))
 
-Tq=λμ(1μ−λ)T_q=\frac{\lambda}{\mu}\left(\frac{1}{\mu-\lambda}\right)Tq​=μλ​(μ−λ1​)
 
 ---
 
@@ -160,11 +160,7 @@ Denoted by **Ws**.
 
 Formula:
 
-Ts=1m−λT_s=\frac{1}{m-\lambda}Ts​=m−λ1​
-
-or
-
-Ts=1μ−λT_s=\frac{1}{\mu-\lambda}Ts​=μ−λ1​
+Ts = (1/ (μ - λ))
 
 ---
 
@@ -174,7 +170,7 @@ The proportion of time that a server actually spends serving customers.
 
 Formula:
 
-ρ=λμ\rho=\frac{\lambda}{\mu}ρ=μλ​
+ρ=λ/μ
 
 ---
 
