@@ -11,14 +11,10 @@
             "id": "948665333e5a70c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eight/Operational Research/Queuing Theory.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Queuing Theory"
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +160,29 @@
               "icon": "lucide-list",
               "title": "Outline of Queuing Theory"
             }
+          },
+          {
+            "id": "12426ddcf8ebd33e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "ffaf99229b1a6e5b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -180,11 +197,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "948665333e5a70c4",
   "lastOpenFiles": [
+    "Eight/DAV/Unit1/Visual Representation of Data.md",
+    "Eight/DAV/Unit1/Visual Encoding.md",
+    "Eight/DAV/Unit1/Use Of Colors.md",
+    "Eight/DAV/Unit1/Introduction To Visualization.md",
+    "Eight/DAV/Information Overload.md",
+    "Eight/DAV/Unit1/Information Overload.md",
+    "Eight/DAV/Unit1/Data Abstractions.md",
+    "Eight/DAV/Unit1",
+    "Eight/DAV/Use Of Colors.md",
+    "Eight/DAV/Visual Encoding.md",
+    "Eight/DAV/Data Abstractions.md",
     "Eight/DAV/Visual Representation of Data.md",
     "Eight/Operational Research/Queuing Theory.md"
   ]

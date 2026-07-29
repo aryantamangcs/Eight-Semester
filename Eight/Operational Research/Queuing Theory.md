@@ -208,3 +208,4 @@ The main objective of queuing is to manage a good economic balance between:
 - Cost of service
 
 The optimal solution is achieved at the point where the **sum of waiting cost and service cost is minimized.**
+
