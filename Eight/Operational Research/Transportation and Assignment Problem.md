@@ -47,3 +47,5 @@ It can be calculated by North-West Corned method, Least Cost method and Vogel's 
 https://www.youtube.com/watch?v=Ow3XWYnPgSM&t=94s
 
 https://www.youtube.com/watch?v=9fL0g_cZX9s
+
+https://www.youtube.com/watch?v=pnJUzNFn3CA&list=PLU6SqdYcYsfLdur9EvX7TXe0VeNgAdVtD&index=4
