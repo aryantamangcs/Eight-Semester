@@ -11,10 +11,14 @@
             "id": "948665333e5a70c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Eight/Operational Research/Transportation and Assignment Problem.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Transportation and Assignment Problem"
             }
           }
         ]
@@ -204,6 +208,10 @@
   },
   "active": "948665333e5a70c4",
   "lastOpenFiles": [
+    "Inbox/CamScanner 02-08-2026 11.27n_2.jpg",
+    "Inbox/CamScanner 02-08-2026 11.27n_1.jpg",
+    "Inbox",
+    "Eight/Operational Research/Transportation and Assignment Problem.md",
     "Eight/DAV/Unit1/Visual Representation of Data.md",
     "Eight/DAV/Unit1/Visual Encoding.md",
     "Eight/DAV/Unit1/Use Of Colors.md",
