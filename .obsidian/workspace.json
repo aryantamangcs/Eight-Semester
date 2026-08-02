@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eight/Operational Research/Transportation and Assignment Problem.md",
+                "file": "Eight/DAV/Unit2/Visual Reference Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transportation and Assignment Problem"
+              "title": "Visual Reference Model"
             }
           }
         ]
@@ -208,12 +208,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12426ddcf8ebd33e",
+  "active": "948665333e5a70c4",
   "lastOpenFiles": [
+    "Inbox/Pasted image 20260802193458.png",
+    "Eight/Operational Research/Transportation and Assignment Problem.md",
+    "Eight/DAV/Unit2/Visual Reference Model.md",
+    "Eight/DAV/Unit2",
     "Inbox/CamScanner 02-08-2026 11.27n_2.jpg",
     "Inbox/CamScanner 02-08-2026 11.27n_1.jpg",
     "Inbox",
-    "Eight/Operational Research/Transportation and Assignment Problem.md",
     "Eight/DAV/Unit1/Visual Representation of Data.md",
     "Eight/DAV/Unit1/Visual Encoding.md",
     "Eight/DAV/Unit1/Use Of Colors.md",
